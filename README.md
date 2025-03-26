@@ -2,6 +2,12 @@
 Python code and material for an introductory course on computational epidemiology
 
 ## Notebooks
+### Compartmental Models
 - Compartmental Models 1: [exercise](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/compartmental_models/compartmental_models_1_exercise.ipynb) and [solution](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/compartmental_models/compartmental_models_1_solution.ipynb) 
-- Compartmental Models 2: [exercise](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/compartmental_models/compartmental_models_2_exercise.ipynb) and [solution](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/compartmental_models/compartmental_models_2_solution.ipynb) 
+- Compartmental Models 2: [exercise](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/compartmental_models/compartmental_models_2_exercise.ipynb) and [solution](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/compartmental_models/compartmental_models_2_solution.ipynb)
+
+### Network Epidemiology
+- Epidemic on Networks: [exercise](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/network_epidemiology/network_models_exercise.ipynb) and [solution](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/network_epidemiology/network_models_solution.ipynb) 
+- Introduction to Activity Driven Networks: [exercise](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/temporal_networks/01_activity_driven_networks_excercise.ipynb) and [solution](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/temporal_networks/01_activity_driven_networks_solution.ipynb)
+- Epidemics on Activity Driven Networks: [exercise](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/temporal_networks/02_epidemic_spreading_on_adn_excersise.ipynb) and [solution](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/temporal_networks/02_epidemic_spreading_on_adn_solution.ipynb)
 
