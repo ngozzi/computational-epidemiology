@@ -1,5 +1,6 @@
-# Computational Epidemiology
-Python code and material for an introductory course on computational epidemiology
+# Introduction to Computational Epidemiology
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+Python code and material for an introductory course on computational epidemiology.
 
 ## Notebooks
 ### Compartmental Models
