@@ -1,0 +1,5 @@
+covid-19 deaths
+https://github.com/pcm-dpc/COVID-19/tree/master/dati-andamento-nazionale
+
+google mobility report
+https://www.google.com/covid19/mobility/
