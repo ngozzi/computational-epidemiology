@@ -7,6 +7,7 @@ Python code and material for an introductory course on computational epidemiolog
 ### Compartmental Models
 - Compartmental Models 1: [exercise](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/compartmental_models/compartmental_models_1_exercise.ipynb) and [solution](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/compartmental_models/compartmental_models_1_solution.ipynb) 
 - Compartmental Models 2: [exercise](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/compartmental_models/compartmental_models_2_exercise.ipynb) and [solution](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/compartmental_models/compartmental_models_2_solution.ipynb)
+- Epydemix: [exercise](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/epydemix/epydemix_exercise.ipynb) and [solution](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/epydemix/epydemix_solution.ipynb)
 
 ### Network Epidemiology
 - Epidemic on Networks: [exercise](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/network_epidemiology/network_models_exercise.ipynb) and [solution](https://github.com/ngozzi/computational-epidemiology/blob/main/notebooks/network_epidemiology/network_models_solution.ipynb) 
